@@ -22,3 +22,5 @@
 <br>6. 힙 정렬(Heap sort)
 -   힙에서 가장 큰 값인 루트를 꺼내는 작업을 반복하고 그 값을 늘어 놓으면서 정렬하는 방식
 <br>시간복잡도:O(nlogn)
+
+<br>![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/random%EC%A0%95%EB%A0%AC.png)
