@@ -15,6 +15,7 @@
 <br> 4. 셸 정렬(shell sort)
 -   먼저 정렬한 배열의 요소를 그룹으로 나누고 각 그룹별로 삽입 정렬을 수행하고, 그 그룹을 합치면서 정렬을 반복하여 요소의 이동 횟수를 줄이는 방식
 <br>시간복잡도:O(n^1.5)
+
 <br>5. 퀵 정렬(quick sort)
 - 기준점(pivot)을 정하여, 왼쪽으로는 기준점보다 낮은값/오른쪽으로는 기준점보다 높은값으로 정렬한다.그리고 낮은값(왼쪽)/높은값(오른쪽)에서 똑같은 작업을 수행한다.
 <br>시간복잡도:O(nlog2n)~O(n^2)
@@ -28,3 +29,6 @@
 <br>![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/random%EC%A0%95%EB%A0%AC.png)
 
 ## 2.배열이 역(reverse)정렬되어있을때 각 정렬 알고리즘들의 시간값 그래프(데이터 개수:2^5~2^20)
+![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/reverse%EC%A0%95%EB%A0%AC.png)
+## 3.배열이 정렬되어있을때 각 정렬 알고리즘들의 시간값 그래프(데이터:2^5~2^20)
+![logo]()
