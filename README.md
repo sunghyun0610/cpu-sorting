@@ -233,10 +233,10 @@ reverse와 이미 정렬이 된경우는 위코드에 reverse해주거나 정렬
 
 ## 1. 배열이 정렬되어있지 않았을 때 각 정렬 알고리즘들의 시간값 그래프(데이터 개수:2^5~2^20)
 
-<br>![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/random%EC%A0%95%EB%A0%AC.png)
+<br> ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/random%EC%A0%95%EB%A0%AC.png)
 
 ## 2.배열이 역(reverse)정렬되어있을때 각 정렬 알고리즘들의 시간값 그래프(데이터 개수:2^5~2^20)
-![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/reverse%EC%A0%95%EB%A0%AC.png)
+<br> ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/reverse%EC%A0%95%EB%A0%AC.png)
 ## 3.배열이 정렬되어있을때 각 정렬 알고리즘들의 시간값 그래프(데이터:2^5~2^20)
-![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/sorted%EC%A0%95%EB%A0%AC.png)
+<br> ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/sorted%EC%A0%95%EB%A0%AC.png)
 <br> run-time-over값은 그래포 모양관계로 임의로 큰숫자를 부여했다.
