@@ -247,3 +247,4 @@ reverse와 이미 정렬이 된경우는 위코드에 reverse해주거나 정렬
 
 ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/sorted%EC%A0%95%EB%A0%AC.png)
 <br> run-time-over값은 그래포 모양관계로 임의로 큰숫자를 부여했다.
+<br>이상.
