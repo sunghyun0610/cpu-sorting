@@ -32,3 +32,4 @@
 ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/reverse%EC%A0%95%EB%A0%AC.png)
 ## 3.배열이 정렬되어있을때 각 정렬 알고리즘들의 시간값 그래프(데이터:2^5~2^20)
 ![logo](https://github.com/sunghyun0610/cpu-sorting/blob/main/sorted%EC%A0%95%EB%A0%AC.png)
+<br> run-time-over값은 그래포 모양관계로 임의로 큰숫자를 부여했다.
